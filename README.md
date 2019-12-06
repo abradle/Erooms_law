@@ -10,7 +10,7 @@ If you want to skip the code and see the results:
 
 ![Eroom's Law](https://i.imgur.com/8ZQhkqp.png)
 
-Its no where near a reversal, but it does look like the trend is less stable than it was before the introduciton of ML/DL. More specific and more recent data would let you look at this further.
+The trend certainly hasn't reversed but after the introduction of ML and especially DL, the trend seems to be decreasingly less stably. 
 
 ## Citations
 
